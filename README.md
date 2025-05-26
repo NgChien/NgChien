@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Solidity**
 
-- 📫 How to reach me **nguyenchienkts96@gmail.com**
+- 📫 How to reach me **https://discord.gg/NSZenWGh**
 
 - Donate EVM : 0x897D3435F5b770e04Ffe70981807Ee3076bDdf74
 
